@@ -30,16 +30,27 @@ Standard Libraries: `vector`, `cstdlib`, `ctime`, `algorithm`, `chrono`, `iostre
 🧪 Sample Output
 
 Enter the number of random integers to generate: 10
+
 Generated numbers: 563 77 220 998 43 10 789 322 654 211
+
 Time taken by QuickSort: 14256 nanoseconds
+
 Array after Quick Sort: 10 43 77 211 220 322 563 654 789 998
+
 Time taken by MergeSort: 15340 nanoseconds
+
 Array after Merge Sort: 10 43 77 211 220 322 563 654 789 998
+
 Enter a number to search: 322
+
 Number found at index 5 using Binary Search
+
 Time taken by Binary Search: 310 nanoseconds
+
 Number found at index 5 using Exponential Search
+
 Time taken by Exponential Search: 427 nanoseconds
+
 
 
 📊 Algorithm Complexity
